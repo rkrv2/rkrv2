@@ -7,4 +7,4 @@ However a decade later the typical workflow of a linux audio user changed from u
 
 This project in contrast is meant to bring the effects to the current state of the art with proper parameter units, more consistent interfaces, and hopefully a better user experience.
 
-Our target completion date is the year 3057. If you are interested and would like to collaborate, perhaps you can help us accelerate that schedule a bit.
+We don't have a target schedule, we'd rather have something done well than just a hack (rkrlv2 already exists for that). We are very open to collaboration though to help accelerate things.
